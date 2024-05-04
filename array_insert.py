@@ -1,6 +1,6 @@
 def insert(arr, element):
     arr.append(element)
- # helps insert at the end of the array.
+ # helps insert at the end of the array
  
 # Driver's code
 if __name__ == '__main__':
